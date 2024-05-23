@@ -1,7 +1,5 @@
 ### Olá, eu sou o Gabriel Lambrecht
 
-Sobre mim 😄
-
 Sou bacharel em Ciência da Computação pela Feevale
 
 <!--
